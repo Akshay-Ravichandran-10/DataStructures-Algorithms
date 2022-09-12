@@ -8,7 +8,7 @@
     - Check if Largest
     - Reverse a List (without extra space)
     - Rotate List by One Position
-    - Rotate Lisy by D Positions
- 
+    - Rotate List by D Positions
+    - K Max Sum 
 
 
