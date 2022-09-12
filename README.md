@@ -5,7 +5,7 @@
 1. Arrays
     - Insert Element in Index (Adding element to existing list)
     - Largest and Second Largest in Array
-    - Check if Largest
+    - Check if Sorted
     - Reverse a List (without extra space)
     - Rotate List by One Position
     - Rotate List by D Positions
